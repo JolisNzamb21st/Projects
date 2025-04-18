@@ -1,0 +1,6 @@
+[submodule "My-portifolio"]
+	path = My-portifolio
+	url = https://github.com/JolisNzamb21st/My-portifolio.git
+[submodule "Restaurant-WebApp"]
+	path = Restaurant-WebApp
+	url = https://github.com/JolisNzamb21st/Restaurant-WebApp.git
